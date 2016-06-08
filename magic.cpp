@@ -2,5 +2,6 @@
 
 int main()
 {
-	cout << "test\n";
+	std::cout << "test\n";
+	std::cout << "continuing to test, but this time, with magic!\n";
 }
